@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ijustsetmypants/precache-manifest.0ed3ad3c196b6306a9cf41005d7dd550.js"
+  "/ijustsetmypants/precache-manifest.d4c984c431ed88c3f50b1bd1f99be8e1.js"
 );
 
 self.addEventListener('message', (event) => {

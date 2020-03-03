@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31a09685ce5c339c4ebab19365d908b6",
+    "revision": "ba71839ad010de9af2d0c8f4cf2133d8",
     "url": "/ijustsetmypants/index.html"
   },
   {
-    "revision": "9b56f009e34e59201b4d",
+    "revision": "81ec7098dd4038b21837",
     "url": "/ijustsetmypants/static/css/main.46c0f7c7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ijustsetmypants/static/js/2.6c164bf3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b56f009e34e59201b4d",
-    "url": "/ijustsetmypants/static/js/main.08e236ae.chunk.js"
+    "revision": "81ec7098dd4038b21837",
+    "url": "/ijustsetmypants/static/js/main.c804cf42.chunk.js"
   },
   {
     "revision": "8e493ce1355c2b40af62",
